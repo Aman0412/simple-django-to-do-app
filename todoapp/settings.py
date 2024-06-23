@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'todoapp',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'KAvghytfJA{3ab'
+        'PASSWORD': ''
     }
 }
 
